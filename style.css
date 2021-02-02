@@ -1,0 +1,18 @@
+h1 {
+  color: blue;
+  font-family: helvetica;
+  background-color: white;
+  border: 5px solid fuchsia;
+  padding: 50px;
+  float: left;
+}
+body {
+  background-color: grey;
+}
+img {
+  border: 5px solid fuchsia;
+  width: 25%;
+  height: 25%;
+  margin-left: 100px;
+  float: right;
+}
